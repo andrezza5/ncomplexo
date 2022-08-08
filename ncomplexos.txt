@@ -1,0 +1,43 @@
+Realizado em Python 
+
+numeros complexos
+
+a = 2+3j
+type (a)
+class 'complex' >
+print (a)
+(2+3j)
+print (a.real)
+2.0
+print (a.imag)
+3.0
+
+b = 7-2j
+type (b)
+class 'complex' >
+print (b)
+(7-2j)
+print (b.real)
+7.0
+print (b.imag)
+2.0
+
+c = 6/3j
+type (c)
+class 'complex' >
+print (c)
+(6/3j)
+print (c.real)
+6.0
+print (c.imag)
+3.0
+
+d = 4*9j
+type (d)
+class 'complex' >
+print (d)
+(4*9j)
+print (d.real)
+4.0
+print (d.imag)
+9.0
